@@ -9,8 +9,8 @@ p
 
 1
 
-first enter
-last +3G
+first sector :enter
+last sectro: +3G
 t
 L
 
