@@ -1,4 +1,6 @@
 ```bash
+lsblk
+fdisk -l
 sudo fdisk /dev/xvdbb
 
 n
